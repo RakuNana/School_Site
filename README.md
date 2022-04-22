@@ -16,10 +16,16 @@ It's bare bones, so don't expect greatness or whatever, I just need a grade :P
 Things I've tried:
 
 Social_auth_pipeline, dosen't work
+
 changing the urlspatterns don't work
+
 using django_allauth crashes the site
-I've changed my settings dozens of times
-I've changed my urlpatterns dozens of times
-I've added code
-I've deleted code
+
+I've changed my settings dozens of times, Yes the contexts are there, apps are installed, and I have the redirects
+
+I've changed my urlpatterns dozens of times, doesn't seem to make a difference 
+
+I've added code from others that have had the same problem, didn't fix the issue
+
+I've deleted code, more along the lines to see what actually was working and what wasn't
 
